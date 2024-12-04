@@ -1,5 +1,11 @@
 {
     "files.associations": {
         "stdio.h": "c"
+    },
+    "files.exclude": {
+        "**/*.exe": true
+    },
+    "search.exclude": {
+        "**/*.exe": true
     }
 }
