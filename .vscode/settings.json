@@ -4,8 +4,5 @@
     },
     "files.exclude": {
         "**/*.exe": true
-    },
-    "search.exclude": {
-        "**/*.exe": true
     }
 }
