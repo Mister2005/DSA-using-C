@@ -1,8 +1,5 @@
 {
     "files.associations": {
         "stdio.h": "c"
-    },
-    "files.exclude": {
-        "**/*.exe": true
     }
 }
